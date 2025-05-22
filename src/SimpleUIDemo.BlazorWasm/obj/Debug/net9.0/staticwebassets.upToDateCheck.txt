@@ -1,0 +1,6 @@
+wwwroot\bird.png
+wwwroot\css\app.css
+wwwroot\icon-192.png
+wwwroot\index.html
+C:\Users\capnb\Source\Repos\simple-ui-demo\src\SimpleUIDemo.BlazorWasm\wwwroot\css\app.css
+C:\Users\capnb\Source\Repos\simple-ui-demo\src\SimpleUIDemo.BlazorWasm\wwwroot\index.html
